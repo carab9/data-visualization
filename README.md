@@ -1,10 +1,8 @@
-# data-visualization
-
-#Data Visualization
+# Data Visualization
 
 This project is a data processing, analysis, and visualization program. The purpose of this project is to analyze the correlation between sea level rise and CO2 levels by year, between 1992 and 2019. Two data files are provided to the program, a csv file containing sea level data and an html file containing CO2 data. The program parses and processes the data, stores it into the database, and then retrieves the data from the database and analyzes it. The output of the program is three graphs. The relationship between sea level rise and CO2 levels is analyzed via linear regression, as well as an xy-plot and a bar chart. These graphs can be accessed via different tabs in the user interface.
 
-#Architecture
+## Architecture
 
 My code has an architecture with 3 layers: a UI layer that contains components required to enable user interaction with the application; a Business Layer that processes the input data; and a Data Layer that controls access logic components to access the data.
 
@@ -17,17 +15,17 @@ The Business layer consists of the FileIO, Database, and RunLR classes. The File
 
 The Data layer consists of the SqliteDB class, which provides the SQL APIs to create, store and access the SQLite database 
 
-#Requirements
+## Requirements
 
 Python
 Python Libraries: numpy, pandas, re, sqlite3, matplotlib.figure, matplotlib.backends.backend_tkagg, tkinter
 Run the program: python main.py
 
-#Technical Skills
+## Technical Skills
 
 Regular expression and pandas dataframe for data processing, SQLite for database, matplotlib Figure and FigureCanvasTkAgg for plotting graphs. Tkinter for GUIs.
 
-#Results
+## Results
 
 
 
