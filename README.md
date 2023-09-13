@@ -6,7 +6,7 @@ This project is a data processing, analysis, and visualization program. The purp
 
 My code has an architecture with 3 layers: a UI layer that contains components required to enable user interaction with the application; a Business Layer that processes the input data; and a Data Layer that controls access logic components to access the data.
 
-
+![alt text](https://github.com/carab9/data-visualization/blob/architecture.png?raw=true)
 
 
 The UI layer consists of the UI and Graph classes. The Graph Class creates and displays three different graphs. The UI class creates the interface that the user interacts with: the main window and the tabs.
