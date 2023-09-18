@@ -32,12 +32,12 @@ Regular expression and pandas dataframe for data processing, SQLite for database
 This chart shows a scatterplot displaying sea level rise vs CO2 levels based on yearly data.
 
 
-![image](https://github.com/carab9/data-visualization/blob/main/sealevel_co2_linreg.png?raw=true)
-
 
 This barchart shows sea level rise vs CO2 levels. Each bar is one year.
 
 ![image](https://github.com/carab9/data-visualization/blob/main/sealevel_co2_barchart.png)
 
-
 This chart shows the linear regression between sea level rise and CO2 levels, displayed alongside a scatter plot.
+
+![image](https://github.com/carab9/data-visualization/blob/main/sealevel_co2_linreg.png?raw=true)
+
