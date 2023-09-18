@@ -6,7 +6,7 @@ This project is a data processing, analysis, and visualization program. The purp
 
 My code has an architecture with 3 layers: a UI layer that contains components required to enable user interaction with the application; a Business Layer that processes the input data; and a Data Layer that controls access logic components to access the data.
 
-![image](https://github.com/carab9/data-visualization/architecture.png?raw=true)
+![image](https://github.com/carab9/data-visualization/blob/main/architecture.png?raw=true)
 
 
 The UI layer consists of the UI and Graph classes. The Graph Class creates and displays three different graphs. The UI class creates the interface that the user interacts with: the main window and the tabs.
@@ -32,12 +32,12 @@ Regular expression and pandas dataframe for data processing, SQLite for database
 This chart shows a scatterplot displaying sea level rise vs CO2 levels based on yearly data.
 
 
-![image](https://github.com/carab9/data-visualization/sealevel_co2_linreg.png?raw=true)
+![image](https://github.com/carab9/data-visualization/blob/main/sealevel_co2_linreg.png?raw=true)
 
 
 This barchart shows sea level rise vs CO2 levels. Each bar is one year.
 
-![image](https://github.com/carab9/data-visualization/sealevel_co2_barchart.png)
+![image](https://github.com/carab9/data-visualization/blob/main/sealevel_co2_barchart.png)
 
 
 This chart shows the linear regression between sea level rise and CO2 levels, displayed alongside a scatter plot.
