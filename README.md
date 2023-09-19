@@ -18,7 +18,7 @@ The Data layer consists of the SqliteDB class, which provides the SQL APIs to cr
 ## Requirements
 
 Python
-Python Libraries: numpy, pandas, re, sqlite3, matplotlib.figure, matplotlib.backends.backend_tkagg, tkinter
+Python Libraries: numpy, pandas, re, sqlite3, matplotlib.figure, matplotlib.backends.backend_tkagg, tkinter.
 Run the program: python main.py
 
 ## Technical Skills
@@ -26,7 +26,6 @@ Run the program: python main.py
 Regular expression and pandas dataframe for data processing, SQLite for database, matplotlib Figure and FigureCanvasTkAgg for plotting graphs. Tkinter for GUIs.
 
 ## Results
-
 
 
 This chart shows a scatterplot displaying sea level rise vs CO2 levels based on yearly data.
