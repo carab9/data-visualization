@@ -1,6 +1,6 @@
 # Data Visualization
 
-This project is a data processing, analysis, and visualization program. The purpose of this project is to analyze the correlation between sea level rise and CO2 levels by year, between 1992 and 2019. Two data files are provided to the program, a csv file containing sea level data and an html file containing CO2 data. The program parses and processes the data, stores it into the database, and then retrieves the data from the database and analyzes it. The output of the program is three graphs. The relationship between sea level rise and CO2 levels is analyzed via linear regression, as well as an xy-plot and a bar chart. These graphs can be accessed via different tabs in the user interface.
+This project is a data processing, analysis, and visualization program. The purpose of this project is to analyze the correlation between sea level rise and CO2 levels by year, between 1992 and 2019. Two data files are provided to the program, a CSV file containing sea level data and an HTML file containing CO2 data. The program parses and processes the data, stores it into the database, and then retrieves the data from the database and analyzes it. The output of the program is three graphs. The relationship between sea level rise and CO2 levels is analyzed via linear regression, as well as an xy-plot and a bar chart. These graphs can be accessed via different tabs in the user interface.
 
 ## Architecture
 
