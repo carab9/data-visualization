@@ -23,7 +23,7 @@ Run the program: python main.py
 
 ## Technical Skills
 
-Regular expression and pandas dataframe for data processing, SQLite for database, matplotlib Figure and FigureCanvasTkAgg for plotting graphs. Tkinter for GUIs.
+Regular expression and pandas dataframe for data processing, SQLite for database, matplotlib Figure and FigureCanvasTkAgg for plotting graphs, Tkinter for GUIs and linear regression algorithm for data analysis.
 
 ## Results
 
